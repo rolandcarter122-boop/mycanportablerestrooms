@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is included in your standard service for a long-term rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard weekly service is comprehensive. Our technicians will pump out the waste tank, thoroughly clean and disinfect all interior surfaces, recharge the unit with our eco-friendly deodorizing chemical, restock the toilet paper, and perform a quality check to ensure the unit is in perfect working order.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you determine the final placement of the unit on my property or event site?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our trained delivery specialist will work with you to find a location that is both convenient for your guests and safely accessible for our service trucks. The unit must be on a flat, level surface within 25 feet of a passable driveway or road for our equipment to reach it.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your portable toilets treated to withstand hot summer weather?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. All our units are constructed from heavy-duty plastic with light-colored, reflective roofs to reduce heat absorption. More importantly, we use a premium, non-formaldehyde chemical in the tank that contains powerful deodorizers and enzymes specifically formulated to control odors in high-temperature conditions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What are the power and water requirements for a luxury restroom trailer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our luxury portable restrooms are designed for convenience. They require connection to a standard garden hose for a continuous water supply and access to one or two standard 110v/20-amp electrical circuits (depending on the trailer size) to power the lights, climate control, and pumps. We can also provide onboard water tanks and generators if needed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much advance notice is needed to rent a porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we can often accommodate last-minute requests, we recommend booking at least one to two weeks in advance, especially for large events or during our busy season (spring through fall). For luxury portable toilet rentals in #State like our trailers, booking 4-6 months ahead is advisable to ensure availability.</p>
+                <div class="callalooma mx-auto"><a href="tel:888341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
